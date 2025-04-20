@@ -41,7 +41,7 @@ h3.menu-item-tile {
 /*MOBILES ONLY*/
 @media (max-width: 575px) {
   section.row { 
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10vw;
+    padding-right: 10vw;
   }
 }
