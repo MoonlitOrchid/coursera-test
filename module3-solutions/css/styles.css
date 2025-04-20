@@ -1,0 +1,33 @@
+* {
+  background-color: white;
+}
+/*HEADER*/
+.nav-link {
+  text-align: center;
+}
+.nav-link:hover {
+  background-color: #e7e7e7;
+}
+/*END HEADER*/
+
+/*MAIN CONTENT*/
+#Chicken, #Beef, #Sushi {
+  border: 2px solid green;
+}
+#Chicken {
+  background-color: pink;
+}
+#Beef {
+  background-color: indianred;
+}
+#Sushi {
+  background-color: lightyellow;
+}
+h3.menu-item-tile {
+  text-align: center;
+  font-size: 1.3em;
+  margin: 0 auto 15px;
+}
+#Beef h3.menu-item-tile {
+  color: white;
+}
