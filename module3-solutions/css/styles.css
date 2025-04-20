@@ -20,7 +20,7 @@ h1 {
 }
 #Chicken, #Beef, #Sushi {
   border: 2px solid green;
-  margin: 5px auto 20px;
+  margin: 0 auto 20px;
 }
 #Chicken, #Chicken * {
   background-color: pink;
@@ -34,7 +34,7 @@ h1 {
 h3.menu-item-tile {
   text-align: center;
   font-size: 1.3em;
-  margin: 0 auto 15px;
+  margin: 5px auto 15px;
 }
 #Beef h3.menu-item-tile {
   color: white;
