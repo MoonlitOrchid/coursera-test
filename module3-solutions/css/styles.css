@@ -1,4 +1,4 @@
-* {
+body:not(header):not(header *) {
   background-color: lightsteelblue;
 }
 /*HEADER*/
