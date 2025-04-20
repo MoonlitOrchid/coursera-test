@@ -15,9 +15,12 @@ header, header * {
 /*END HEADER*/
 
 /*MAIN CONTENT*/
+h1 {
+  margin: 15px auto 30px;
+}
 #Chicken, #Beef, #Sushi {
   border: 2px solid green;
-  margin: 0 auto 20px;
+  margin: 5px auto 20px;
 }
 #Chicken, #Chicken * {
   background-color: pink;
