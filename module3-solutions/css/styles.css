@@ -1,12 +1,16 @@
 body:not(header):not(header *) {
   background-color: lightsteelblue;
 }
+
 /*HEADER*/
 .nav-link {
   text-align: center;
 }
 .nav-link:hover {
   background-color: #e7e7e7;
+}
+header, header * {
+  background-color: azure;
 }
 /*END HEADER*/
 
@@ -32,9 +36,12 @@ h3.menu-item-tile {
 #Beef h3.menu-item-tile {
   color: white;
 }
+/*END MAIN CONTENT*/
+
 /*mobiles only*/
 @media (max-width: 575px) {
   #Chicken, #Beef, #Sushi {
+    width: 100%
     margin-left: 20px;
     margin-right: 20px;
   }
