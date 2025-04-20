@@ -33,7 +33,7 @@ h3.menu-item-tile {
   color: white;
 }
 /*mobiles only*/
-@media (max-width: 575px;){
+@media (max-width: 575px) {
   #Chicken, #Beef, #Sushi {
     margin-left: 20px;
     margin-right: 20px;
